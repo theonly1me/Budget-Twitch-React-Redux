@@ -37,4 +37,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Atchyut Preetham Pulavarthi - @AtchyutPulavarthi - pulavarthi.preetham@gmail.com
 
-Project Link: https://github.com/theonly1me/Piks
+Project Link: https://github.com/theonly1me/Budget-Twitch-React-Redux
